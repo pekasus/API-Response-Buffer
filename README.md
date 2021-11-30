@@ -17,7 +17,7 @@ values as and when requested.
     __________________*************___________________  
     Local API created successfully!\
     New API name:   amirkhan\
-    Fetch command:  amrirkhan.get_response(N)  
+    Fetch command:  amirkhan.get_response(N)  
     Fetch output:   O1,O2,O3
     Status check command:
                     amirkhan.get_status
